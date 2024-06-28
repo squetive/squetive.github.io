@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://squetive.github.io/sitemap
+Sitemap: https://squetive.github.io/app/sitemap
+Sitemap: https://squetive.github.io/assets/sitemap
+Sitemap: https://squetive.github.io/css/sitemap
+Sitemap: https://squetive.github.io/includes/sitemap
+Sitemap: https://squetive.github.io/item/sitemap
+Sitemap: https://squetive.github.io/src/sitemap
